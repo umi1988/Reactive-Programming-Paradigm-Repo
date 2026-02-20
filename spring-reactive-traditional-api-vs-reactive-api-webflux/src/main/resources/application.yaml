@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: spring-reactive-traditional-api-vs-reactive-api-webflux
+server:
+  port: 9191
+
